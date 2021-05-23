@@ -21,5 +21,7 @@ Other installs I made were:
 `npm install cloudinary`
 `npm install cloudinary-react`
 `npm install dotenv`
+`npm install react-router-dom`
+`npm install pg`
 
 Then I began writing my code. I got stuck on the server side and how to connect it with both the database and Cloudinary.
