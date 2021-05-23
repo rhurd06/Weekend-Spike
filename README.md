@@ -17,11 +17,14 @@ Use Postico!
 You will need to setup a table per the database.sql.
 
 `npm install`
-Other installs I made were:
-`npm install cloudinary`
-`npm install cloudinary-react`
-`npm install dotenv`
-`npm install react-router-dom`
-`npm install pg`
 
+Other installs I made were:
+
+<ul>
+<li>`npm install cloudinary`</li>
+<li>`npm install cloudinary-react`</li>
+<li>`npm install dotenv`</li>
+<li>`npm install react-router-dom`</li>
+<li>`npm install pg`</li>
+</ul>
 Then I began writing my code. I got stuck on the server side and how to connect it with both the database and Cloudinary.
