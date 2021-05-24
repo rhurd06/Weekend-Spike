@@ -28,3 +28,7 @@ Other installs I made were:
 <li>`npm install pg`</li>
 </ul>
 Then I began writing my code. I got stuck on the server side and how to connect it with both the database and Cloudinary.
+
+Tutorial Videos Used:
+
+`https://www.youtube.com/watch?v=Rw_QeJLnCK4`
