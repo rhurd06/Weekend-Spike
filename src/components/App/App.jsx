@@ -1,8 +1,8 @@
 import {useState} from 'react';
-import { BrowserRouter as Router, Link, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Link, Switch, Route } from 'react-router-dom';
 
-import home from '../home';
-import upload from '../upload';
+import home from './home';
+import upload from './upload';
 import './App.css';
 
 function App () {

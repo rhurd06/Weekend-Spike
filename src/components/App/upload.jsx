@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 
 function upload() {
+    //first is value to call upon and set
+    //second is function to call
     const [fileInput, setFileInput] = useState('');
     const [preview, setPreview] = useState('');
     const [chosenFile, setChosenFile] = useState('');
 
 
-    //handles any changes to fileInput
+    //sets value to fileInput and calls on other functions
     const handleFileInputChange = (event) => {
         const file = event.target.files[0];
         previewFile(file);
